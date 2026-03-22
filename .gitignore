@@ -3,3 +3,5 @@ dist/
 .parcel-cache/
 .env
 swiggy/
+.DS_Store
+.vscode/
